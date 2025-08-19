@@ -1,7 +1,7 @@
 # fedora-config
 My Fedora configuration & tweaks
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4643cb9-8a33-4973-b61e-bf802e3d08ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8c89027-1e36-4975-a44b-804837addf82" />
 
 # System
 **OS:** Fedora (42) <br>
