@@ -31,3 +31,7 @@ My Fedora configuration & tweaks
 
 # Gnome Extensions
 <img width="981" height="1010" alt="image" src="https://github.com/user-attachments/assets/4fd776ff-8f17-4470-8f8a-32059914e79d" />
+
+# Settings > Appearance
+<img width="1222" height="920" alt="image" src="https://github.com/user-attachments/assets/51a37031-ed9f-4218-9d55-7e399a22df13" />
+
