@@ -30,4 +30,4 @@ My Fedora configuration & tweaks
 <img width="826" height="561" alt="image" src="https://github.com/user-attachments/assets/96052429-37c2-437b-9421-4e66578c07f5" />
 
 # Gnome Extensions
-<img width="933" height="990" alt="image" src="https://github.com/user-attachments/assets/88d25a92-aee0-4ad3-bf7c-2853fd22e6ff" />
+<img width="981" height="1010" alt="image" src="https://github.com/user-attachments/assets/4fd776ff-8f17-4470-8f8a-32059914e79d" />
