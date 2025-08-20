@@ -1,6 +1,8 @@
 # fedora-config
 My Fedora configuration & tweaks
 
+Do you miss something? Let me know :)
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8c89027-1e36-4975-a44b-804837addf82" />
 
 # System
